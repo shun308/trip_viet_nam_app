@@ -63,3 +63,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'haml-rails'
 gem 'jquery-rails'
 gem 'bootstrap', '~> 4.4.1'
+gem 'font-awesome-sass'
+gem 'fog-aws'
+gem 'devise'
